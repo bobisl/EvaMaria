@@ -50,7 +50,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
-You can deploy this bot anywhere.
+You can deploy this bot anywhere.https://github.com/bobisl/EvaMaria/edit/master/README.md
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
